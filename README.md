@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadoyyo&layout=compact&theme=radical&hide=roff)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Streak](https://streak-stats.demolab.com/?user=TWÓJ_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=hadoyyo&theme=radical)
 
 ## 🌐 Social & Gaming
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/twoj.profil)
