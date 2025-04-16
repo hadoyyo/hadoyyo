@@ -25,7 +25,7 @@ Welcome to my GitHub profile. Here you will find all my completed projects and t
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hadoyyo&layout=compact&theme=radical&hide=roff)](https://github.com/hadoyyo/github-readme-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hadoyyo&theme=calm_pink&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hadoyyo&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 Socials
