@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hi there!
 Welcome to my GitHub profile. Here you will find all my completed projects and those I am currently working on. I'm still learning, so please be understanding about some of the solutions I used, especially in older projects 😅.
 
 # 🧑‍💻 Who am I?
