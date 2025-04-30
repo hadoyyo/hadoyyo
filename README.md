@@ -1,5 +1,5 @@
 # 👋 Hi there!
-Welcome to my GitHub profile. Here you will find all my completed projects and those I am currently working on. I'm still learning, so please be understanding about some of the solutions I used, especially in older projects 😅.
+Welcome to my GitHub profile. Here you will find all my completed projects and those I am currently working on. I am learning to develop websites, web and mobile applications. From time to time I like to create small, simple games.
 
 # 🧑‍💻 Who am I?
 - **Aspiring Web & Mobile Developer**
@@ -24,6 +24,7 @@ Welcome to my GitHub profile. Here you will find all my completed projects and t
 ![OracleSQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 # 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hubert.jedruchniewicz)
