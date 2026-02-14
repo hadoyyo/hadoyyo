@@ -3,7 +3,8 @@ Welcome to my GitHub profile. Here you will find all my completed projects and t
 
 # 🧑‍💻 Who am I?
 - **Aspiring Web & Mobile Developer**
-- **Software Engineering Student**
+- **Software Engineer**
+- **Master's Degree Student**
 
 # 🚀 Programming Languages & Tools
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
