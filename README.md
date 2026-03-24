@@ -30,6 +30,8 @@ Welcome to my GitHub profile. Here you will find all my completed projects and t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hubert-j%C4%99druchniewicz-711166267)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198199722587/)
 
+# 📊 Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadoyyo&theme=highcontrast&hide_border=true" />
 </p>
