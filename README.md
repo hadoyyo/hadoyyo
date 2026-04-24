@@ -35,3 +35,7 @@ Welcome to my GitHub profile. Here you will find all my completed projects and t
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadoyyo&theme=highcontrast&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://gh-fish-tank.vercel.app/api/generate?user=hadoyyo&bg=4ecdc4&frame=3a4a5a&sand=c4a574&show_legend=true&show_language_labels=true&show_bubbles=true&show_rocks=true&show_plants=true&show_plants_alt=false&show_castle=false&show_ship=true&show_chest=false&show_shell=false&show_frame=false&show_anubias=true&show_statue=true" />
+</p>
